@@ -6,4 +6,4 @@ Famous Trimble T-Bolt GPSDO is the heart of this project. Its 1PPS output has co
 
 RTOS is making all this things working realtime
 
-![Assembled project]https://github.com/phonophob/Precision-Time-Source/blob/master/IMG_20180221_132516701.jpg)
+![Assembled project](https://github.com/phonophob/Precision-Time-Source/blob/master/IMG_20180221_132516701.jpg)
